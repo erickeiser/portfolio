@@ -1,0 +1,58 @@
+﻿.bg-black {
+  background: #000;
+  color: #fff;
+}
+
+#main-header img {
+  width: 100%;
+  height: 100%;
+}
+
+.skill_bar {
+  width: 100%;
+  height: 25px;
+  background:#c0c0c0;
+}
+
+.progress-bar {
+  width: 0%;
+  height: 100%;
+}
+  
+  
+
+.port-item {
+  width: 30%;
+}
+.fa {
+  font-size:2em;
+}
+.port-item:hover {
+  opacity: .8;
+  cursor: pointer;
+}
+@media(min-width:1199px) {
+  .port-item {
+    padding: 3em !important;
+  }
+}
+
+.fa-instagram {
+  color: #ffdc7d;
+}
+
+.fa-linkedin {
+ 
+  color: rgb(0,119,181)
+}
+
+.fa-github {
+  color: #6e5494;
+}
+
+.fa-twitter {
+  color:#1da1f2;
+}
+  
+
+
